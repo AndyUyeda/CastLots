@@ -9,9 +9,23 @@
 #ifndef Lists_h
 #define Lists_h
 
-
-#define APPRENTICESHIP
-#define ELDERS
+#define ELDERS @[@"Ryan Fullerton", \
+@"Jeff King", \
+@"Donnie Isely", \
+@"Ward Young", \
+@"Andy Morris", \
+@"Evan Calvin", \
+@"Ramny Perez", \
+@"Ben Hedrick", \
+@"Doug Sturgeon", \
+@"Dominic Cedillo", \
+@"Jonny Atkinson", \
+@"Jones Ndzi", \
+@"Matthew Huested", \
+@"Jay Ingram", \
+@"Trevor Komatsu", \
+@"Shingsay Lee", \
+@"Tom Scott"]
 
 #define GCGLEADERS @[@"Cody Prichard", \
 @"Daniel Taylor", \
@@ -59,7 +73,6 @@
 @"Blake Scheideman", \
 @"Biven Toma & Seth Osborne"]
 
-
 #define MEMBERS  @[ @"Jacob Adams", \
 @"Amanullah Afzali", \
 @"Ghonchagul Afzali", \
@@ -68,7 +81,7 @@
 @"Luke Hedaiatullah Afzali", \
 @"Silsila Sosan Afzali", \
 @"Charles Aina", \
-@"Chavon Aina", \\
+@"Chavon Aina", \
 @"Allison Allen", \
 @"Craig Allen", \
 @"Emily Allen", \
