@@ -15,7 +15,6 @@
 @"Ward Young", \
 @"Andy Morris", \
 @"Evan Calvin", \
-@"Ramny Perez", \
 @"Ben Hedrick", \
 @"Doug Sturgeon", \
 @"Dominic Cedillo", \
@@ -23,8 +22,7 @@
 @"Jones Ndzi", \
 @"Matthew Huested", \
 @"Jay Ingram", \
-@"Trevor Komatsu", \
-@"Shingsay Lee", \
+@"Nick Paola", \
 @"Tom Scott"]
 
 #define DEACONS @[@"Ben Fennell", \
@@ -36,49 +34,55 @@
 @"Josh Ruud"]
 
 #define GCGLEADERS @[@"Cody Prichard", \
-@"Daniel Taylor", \
-@"Daniel Trevino & Miguel Contreras", \
-@"Jones Ndzi", \
+@"Daniel Trevino", \
+@"Miguel Contreras", \
+@"Ryan Sikes & Jin Yang", \
 @"Robbie Simmons", \
-@"Matt Doby", \
+@"Matt Doby & Cameron Thacker", \
 @"Nick Paola", \
 @"Brian Scyphers & Albert Oh", \
 @"David Bankes", \
-@"Dave Rennalls & Shaun Martens", \
+@"Ben Hedrick", \
+@"Shaun Martens", \
 @"Kenny Fields", \
 @"Jared Heinz", \
-@"Andrew Perkins & Deeds Burlager", \
+@"Deeds Burlager", \
+@"Josh Saylor & Kris Burns", \
 @"Jason Cashell", \
 @"Josh Yuen & Van Michael Komatsu", \
 @"Andres Vera & Kevin Gabriel", \
 @"Anthony Leitner", \
 @"Ben Fennell", \
-@"Ben Hedrick & Ross Parmly", \
-@"Donnie Isely", \
-@"Ethan Ammon & Alex Jacobs", \
+@"Ross Parmly", \
+@"Dylan Matthews", \
+@"Kyle Fox", \
+@"Ethan Ammon", \
+@"Evan Gartman & Alex Jacobs", \
 @"James Bufkin", \
 @"Jay Ingram & Jim Hedrick", \
-@"Jeremy Pelton", \
 @"Josh Ramirez", \
 @"Josh Ruud", \
 @"Matt Mihelic", \
-@"Rob Lauter", \
-@"Shingsay Lee", \
-@"Aaron Burkhart", \
+@"Rob Lauter & Josh Hildebrand", \
+@"Eric Nerby", \
+@"Aaron Burkhart & Marc Sims", \
 @"Andy Bryant", \
 @"Cody Gardner & Michael Lambelet", \
-@"David Tyrell", \
+@"David Tyrell & Tim Michiemo", \
 @"Jeremy Corkum", \
 @"Jordan Friesen", \
-@"Kenny & Chris Komatsu", \
+@"Kenny Komatsu & Julian Strickland", \
 @"Kevin Gue", \
-@"Mike Withers & Shawn Lopes", \
+@"Shawn Lopes", \
 @"Nick Platt", \
-@"Mike Stringer", \
+@"Kristan Castro", \
+@"Scott Stringer", \
 @"Shawn Langley & Drue Corbett", \
 @"Tim Winters", \
 @"Chris Walker & Adam Denton", \
-@"Blake Scheideman", \
+@"Luke Vaughan & Ellis Walker", \
+@"Caleb Graves", \
+@"Danny Hirby", \
 @"Biven Toma & Seth Osborne"]
 
 #define MEMBERS  @[ @"Jacob Adams", \
