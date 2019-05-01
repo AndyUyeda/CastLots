@@ -27,6 +27,14 @@
 @"Shingsay Lee", \
 @"Tom Scott"]
 
+#define DEACONS @[@"Ben Fennell", \
+@"Kris Burns", \
+@"Josh Ramirez", \
+@"Rob Lauter", \
+@"Andrew Perkins", \
+@"Deeds Burlager", \
+@"Josh Ruud"]
+
 #define GCGLEADERS @[@"Cody Prichard", \
 @"Daniel Taylor", \
 @"Daniel Trevino & Miguel Contreras", \
@@ -74,12 +82,13 @@
 @"Biven Toma & Seth Osborne"]
 
 #define MEMBERS  @[ @"Jacob Adams", \
-@"Amanullah Afzali", \
-@"Ghonchagul Afzali", \
-@"Hajara Mary Afzali", \
-@"Khatema Jeniffer Afzali", \
+@"Emanuel Afzali", \
+@"Henna Afzali", \
+@"Jennifer Afzali", \
 @"Luke Hedaiatullah Afzali", \
-@"Silsila Sosan Afzali", \
+@"Mary Afzali", \
+@"Susan Afzali", \
+@"Zakia Zee Afzali", \
 @"Charles Aina", \
 @"Chavon Aina", \
 @"Allison Allen", \
@@ -89,21 +98,25 @@
 @"Alexis Ammon", \
 @"Ethan Ammon", \
 @"Aaron An", \
-@"Bob Anerson", \
-@"Jody Anderson", \
+@"Kimberly Andrews", \
+@"Michael Andrews", \
 @"Kristi Apostel", \
 @"Shawn Apostel", \
 @"Rachel Archer", \
 @"Lucas Ardelean", \
 @"Melissa Ardelean", \
+@"Katie Arensman", \
+@"Pascual Arias-Jimenez", \
 @"Chello Armbrister", \
 @"Celeste Arnett", \
 @"AJ Aspinwall", \
 @"Jordan Aspinwall", \
 @"Janaye Atkinson", \
 @"Jonny Atkinson", \
+@"Maggie Augustin", \
+@"Patrick Augustin", \
+@"Caleb Aulie", \
 @"Josh Austin", \
-@"Eric Awbrey", \
 @"Dylan Bailey", \
 @"Rebecca Bailey", \
 @"William Ballentine", \
@@ -111,47 +124,54 @@
 @"David Bankes", \
 @"Kelly Bankes", \
 @"Josh Barrentine", \
-@"Zoe Barrow", \
 @"Jordan Basore", \
 @"Cassie Bastidas", \
 @"Hannah Baugh", \
+@"Arisa Bay", \
 @"Michael Becker", \
 @"Sydney Becker", \
+@"Bekah Bennett", \
 @"Rene Bentsen", \
 @"Scott Bentsen", \
 @"Josh Berner", \
 @"Meghan Berner", \
+@"Mikaela Blando", \
 @"Caitlin Blaylock", \
 @"Richard Blaylock", \
+@"Kim Blough", \
+@"Ron Blough", \
 @"Taylor Blount", \
 @"Tyler Blount", \
+@"Ally Borrett", \
 @"Jake Bradley", \
 @"Amanda Brainard", \
 @"Ben Brainard", \
-@"DuJuan Brents", \
+@"DeJuan Brents", \
 @"Quincy Brents", \
 @"Ramonia Brents", \
 @"Kristen Brewer", \
 @"Sam Brewer", \
-@"Joseph Bridges", \
+@"Aaron Brooking", \
+@"Caleb Brown", \
 @"Nathan Brown", \
 @"Matthew Browning", \
 @"Andy Bryant", \
 @"Sarah Bryant", \
+@"India Bufkin", \
+@"James Bufkin", \
+@"Allison Bullington", \
+@"Nathan Bullington", \
 @"Becky Burke", \
 @"Jared Burke", \
 @"Kearstie Burke", \
 @"Mike Burke", \
-@"India Bufkin", \
-@"James Bufkin", \
 @"Aaron Burkhart", \
 @"Melissa Burkhart", \
 @"Deeds Burlager", \
 @"Spenser Burlager", \
 @"Emily Burns", \
 @"Kris Burns", \
-@"Greg Buth", \
-@"Lora Buth", \
+@"Isaac Busby", \
 @"Rosie Buzzy", \
 @"Emily Byrd", \
 @"Charlie Cai", \
@@ -165,8 +185,8 @@
 @"Rebecca Cedillo", \
 @"Stephanie Chavez", \
 @"Samantha Cheng", \
-@"Jack Cissna", \
-@"Sydnee Cissna", \
+@"Tracey Clayton", \
+@"Mackenzie Cloberdants", \
 @"Carrie Cole", \
 @"Ryan Cole", \
 @"Shannon Collins", \
@@ -191,20 +211,23 @@
 @"Maggie DeLoye", \
 @"Adam Denton", \
 @"Kellie Denton", \
-@"Allison Detrick", \
-@"Dean Dickens", \
 @"Laura Doby", \
 @"Matt Doby", \
 @"Adam Dorsey", \
 @"Tyriesha Doyle", \
+@"Noah Drake", \
 @"Eric Dubois", \
 @"Kaitlin Dubois", \
 @"Scott Dukes", \
 @"Jon Dunn", \
+@"Sam DuPlessis", \
 @"Rachel Edwards", \
-@"Samuel Edwards", \
+@"Sam Edwards", \
+@"Sydney Eiseman", \
 @"Kyle Eiswald", \
 @"Rebekah Enarson", \
+@"Ashley Endel", \
+@"Ben Endel", \
 @"Jennifer Ennis", \
 @"Mark Ennis", \
 @"Alexis Estephan", \
@@ -221,17 +244,20 @@
 @"Sam Ferrell", \
 @"Kenny Fields", \
 @"Lisa Fields", \
+@"Nathan Fike", \
 @"Kristy Fletcher", \
 @"Zach Fletcher", \
 @"Mary Beth Fletcher", \
+@"Makayla Ford", \
 @"Gloria Forsythe", \
+@"Melody Forsythe", \
 @"Abigail Fox", \
 @"Kyle Fox", \
 @"Eliza Frenette", \
 @"Jeremy Frenette", \
 @"Jordan Friesen", \
 @"Mary Friesen", \
-@"Christen Fuller", \
+@"Christine Fuller", \
 @"Christy Fullerton", \
 @"Jordana Fullerton", \
 @"Luke Fullerton", \
@@ -241,15 +267,14 @@
 @"Ashley Gardner", \
 @"Cody Gardner", \
 @"Evan Gartman", \
-@"Ben German", \
 @"Francesca Ghiorso", \
 @"Keelie Gilbert", \
 @"Carrie Gladstone", \
 @"R.J. Gladstone", \
 @"Furman Glenn", \
 @"Kayla Godbold", \
-@"Aaron Gohlke", \
 @"Heidi Gorbandt", \
+@"Shane Granum", \
 @"Caleb Graves", \
 @"Jordan Graves", \
 @"Kat Green", \
@@ -257,9 +282,8 @@
 @"Kimberly Greenwell", \
 @"Dylan Greer", \
 @"Kaitlyn Greer", \
-@"Katlyn Griffin", \
+@"Ian Grigsby", \
 @"Amy Gue", \
-@"Bethany Gue", \
 @"Bonnie Gue", \
 @"Kevin Gue", \
 @"Charles Gue", \
@@ -267,10 +291,8 @@
 @"Beth Gurtner", \
 @"Dan Gurtner", \
 @"Astrid Hacker", \
-@"Stacey Hadler", \
 @"Robert Hagerman", \
 @"Samantha Hagerman", \
-@"Christian Halbert", \
 @"Miranda Hale", \
 @"Ashley Hall", \
 @"Noah Hall", \
@@ -287,16 +309,18 @@
 @"Tamara Hedrick", \
 @"Jim Hedrick", \
 @"Lee Ann Hedrick", \
+@"Megan Heibert", \
 @"Jared Heinz", \
 @"Meredith Heinz", \
 @"Sarah Hemby", \
+@"Jeff Hemby", \
 @"Chris Henderson", \
 @"Chelsea Hilbert", \
 @"Bethany Hildebrand", \
 @"Josh Hildebrand", \
+@"Jason Hill", \
 @"Amy Hirby", \
 @"Danny Hirby", \
-@"Joanne Hirby", \
 @"Melissa Hoagland", \
 @"Stephen Hoagland", \
 @"James Holfinger", \
@@ -305,8 +329,6 @@
 @"Felicity Holt", \
 @"Yohan Hong", \
 @"Derek Hougland", \
-@"Christina House", \
-@"Jeremy House", \
 @"Donghui Hu", \
 @"Aleasha Huested", \
 @"Hannah Huested", \
@@ -323,19 +345,18 @@
 @"Susan Jacobi", \
 @"Alex Jacobs", \
 @"Lindsey Jacobs", \
-@"Melissa Jacobs", \
 @"Delaney Jacobs", \
 @"Valerie Jillson", \
+@"Kimberly Jillson", \
 @"Sarah Jones", \
 @"Nicole Joslin", \
 @"Emily Juhl", \
 @"Dave Kan", \
 @"Jess Kan", \
 @"Stacey Kandel", \
-@"Josh Kary", \
-@"Julie Kary", \
 @"Steve Keating", \
 @"Valarie Keating", \
+@"Paige Ketner", \
 @"Rosa Kim", \
 @"Andrew King", \
 @"Lauren King", \
@@ -344,24 +365,17 @@
 @"Alexis King", \
 @"Corbin Kitzmiller", \
 @"Melanie Kitzmiller", \
-@"Kathryn Klein", \
-@"Matthew Klein", \
 @"Brandi Knapper", \
 @"Michael Knapper", \
-@"Amber Komatsu", \
-@"Trevor Komatsu", \
 @"Kenny Komatsu", \
 @"Sarah Komatsu", \
-@"Shawna Komatsu", \
-@"Chris Komatsu", \
 @"Van Michael Komatsu", \
 @"Eric Krahwinkel", \
 @"Hayley Krahwinkel", \
-@"Samantha Kritner", \
-@"Amber Kunce", \
 @"Kyle Francis", \
 @"Gary Lamb", \
 @"Jessica Lamb", \
+@"Corban Lamb", \
 @"Emily Lambelet", \
 @"Michael Lambelet", \
 @"Meredith Langley", \
@@ -371,28 +385,22 @@
 @"Sarah Lauter", \
 @"Jamie LeBon", \
 @"Jared LeBon", \
+@"Colson Lee", \
+@"Kelly Lee", \
 @"Shingsay Lee", \
 @"Pakou Lee", \
 @"Anthony Leitner", \
 @"Ashton Leitner", \
 @"Dallas Leitner", \
-@"Nicole Liesmaki", \
-@"Anna Limanti", \
-@"Lance Limanti", \
-@"Hanna Lindsey", \
-@"Josh Lohnes", \
 @"Tadongrenia Longkumer", \
 @"Shawn Lopes", \
 @"Heidi Lopes", \
 @"Herson Lopez", \
-@"Yoany Lorenzo", \
 @"Austin Loveing", \
 @"Holly Loveing", \
 @"Margo Loveing", \
 @"Wanda Lowe", \
 @"Jacob Lucio", \
-@"Rebecca Luna", \
-@"Wayne Luna", \
 @"Joy Lynn", \
 @"Tom Lynn", \
 @"Jonathan Lyons", \
@@ -402,8 +410,6 @@
 @"Vilma Makram", \
 @"Yaser Makram", \
 @"Shania Mangum", \
-@"Imran Manzoor", \
-@"Rubina Manzoor", \
 @"Amy Marcum", \
 @"Charlie Marcum", \
 @"Bonnie Marcum", \
@@ -419,12 +425,13 @@
 @"Evan Matthews", \
 @"Kali Matthews", \
 @"Joel Maupin", \
+@"Brook Maxwell", \
 @"Abigail McBroom", \
 @"Nathan McBroom", \
+@"Michell McCollough", \
 @"Alexis McDowell", \
-@"Corey McGalliard", \
-@"Sarah McGalliard", \
 @"Hunter McGiveney", \
+@"Joey McNally", \
 @"Evan McIntosh", \
 @"Jena McIntosh", \
 @"Bethany Meacham", \
@@ -433,6 +440,7 @@
 @"Ethan Medley", \
 @"Rachel Melson", \
 @"Zack Melvin", \
+@"Bethany Meredith", \
 @"Laura Metcalf", \
 @"Phil Metcalf", \
 @"Beth Michiemo", \
@@ -443,16 +451,17 @@
 @"Blut Moo", \
 @"Bethany Moore", \
 @"Glen Moore", \
+@"Payton Moree", \
 @"Andy Morris", \
 @"Emily Morris", \
 @"Lazarus Morris", \
 @"Anna Morris", \
 @"Miriam Morris", \
+@"Kenneth Moses", \
 @"Laurelen Muller", \
 @"Michael Muller", \
-@"Matt Nagel", \
-@"Lisa Nagel", \
-@"Abrianna Nagel", \
+@"William Mullins", \
+@"Jennifer Mullins", \
 @"Kelly Nall", \
 @"Chaney Nall", \
 @"Jones Ndzi", \
@@ -474,13 +483,10 @@
 @"Josh Parker", \
 @"Juliann Parmly", \
 @"Ross Parmly", \
-@"Jeremy Pelton", \
-@"Lyndsey Pelton", \
-@"Markell Pence", \
 @"Baylee Pendleton", \
 @"John Pendleton", \
-@"Ramny Perez", \
-@"Dayi Perez", \
+@"Emmanuel Perez", \
+@"Sawyer Perez", \
 @"Chris Pergola", \
 @"Andrew Perkins", \
 @"Rachel Perkins", \
@@ -494,6 +500,7 @@
 @"Josh Pittman", \
 @"Courtney Platt", \
 @"Nick Platt", \
+@"Jordan Powelson", \
 @"Allison Pratt", \
 @"Zach Pratt", \
 @"Cody Prichard", \
@@ -503,8 +510,7 @@
 @"Abbey Ramirez", \
 @"Josh Ramirez", \
 @"Josh Rarick", \
-@"Jeff Rarick", \
-@"Joan Rarick", \
+@"Steven Reid", \
 @"Janet Reimer", \
 @"Curtis Reimer", \
 @"Dave Rennalls", \
@@ -515,31 +521,29 @@
 @"Babak Rezaei", \
 @"Megan Rezaei", \
 @"Kristi Rhodes", \
-@"Richie Rice", \
-@"Tabitha Rice", \
 @"Coshack Robinson", \
+@"Dani Robinson", \
 @"Dustin Robinson", \
 @"Eva Robinson", \
 @"Jenna Rodriguez", \
 @"Jonathan Rodriguez", \
 @"Allie Roland", \
 @"Charlie Roland", \
-@"Lynn Rosete", \
 @"Allison Royals", \
 @"Vicki Rumer", \
 @"Josh Ruud", \
 @"Kelly Ruud", \
 @"Marvin Salgado", \
-@"Laura Sanchez", \
 @"Josh Saylor", \
 @"Lydia Saylor", \
-@"Blake Scheideman", \
-@"Claire Scheideman", \
-@"Heather Schenkenfelder", \
-@"Jon Schenkenfelder", \
+@"Alexa Schaffner", \
+@"Landon Schaffner", \
+@"Andy Schiller", \
+@"Molly Schiller", \
+@"Courtney Schmidt", \
+@"Joseph Schmidt", \
 @"Jenni Schoen", \
 @"Nate Schoen", \
-@"Anna Schreiner", \
 @"Allison Scoggin", \
 @"Zach Scoggin", \
 @"Robyn Scott", \
@@ -549,6 +553,8 @@
 @"Jayden Scott", \
 @"Brian Scyphers", \
 @"Carmen Scyphers", \
+@"Austin Segar", \
+@"Taylor Segar", \
 @"Kourtney Sepulveda", \
 @"Maria Sepulveda", \
 @"Amy Shepherd", \
@@ -560,9 +566,6 @@
 @"Rachel Shreve", \
 @"Ryan Sikes", \
 @"Whitney Sikes", \
-@"Daniel Sim", \
-@"Laura Simmons", \
-@"Robert Simmons", \
 @"Hillary Sims", \
 @"Marc Sims", \
 @"Emily Sipes", \
@@ -570,25 +573,23 @@
 @"Lisa Sipes", \
 @"Aaron Smith", \
 @"Taylor Smith", \
+@"Courtney Smith", \
 @"Autumn Smith", \
 @"Keiana Smith", \
-@"Matthew Smith", \
 @"Phil Smith", \
 @"Terence Smith", \
-@"Sawyer Smith", \
 @"David Snider", \
 @"Don Snider", \
+@"Won So", \
+@"Grace Soon", \
 @"Allison Stansbury", \
+@"Kyle Stansbury", \
 @"Cindy Starr", \
 @"Bill Starr", \
 @"Morgan Stemple", \
 @"Angela Stephens", \
-@"Kayla Stephens", \
 @"J.P. Stokes", \
 @"Megan Stokes", \
-@"Chelsea Stone", \
-@"Genevieve Stone", \
-@"Jared Stone", \
 @"Zach Stone", \
 @"Penni Stone", \
 @"Andrew Stricklin", \
@@ -601,22 +602,23 @@
 @"Joy Sturgeon", \
 @"Ryan Sweeney", \
 @"Lesli Sweeney", \
-@"Daniel Taylor", \
-@"Monica Taylor", \
+@"Lara Tanner", \
+@"Ross Tanner", \
 @"Travis Teramae", \
 @"Natalie Teune", \
+@"Cameron Thacker", \
+@"Natalie Thacker", \
+@"Van Thawng", \
 @"Jeanette Tilford", \
 @"James Tokko", \
 @"Kristi Tokko", \
 @"Bryson Tokoro", \
 @"Biven Toma", \
 @"Sarah Toma", \
-@"Andrew Tretiak", \
 @"Danny Trevino", \
 @"Stevie Trevino", \
 @"Fernanda Trocan", \
 @"Elia Trocan", \
-@"Erica Truman", \
 @"Adam Turner", \
 @"Tiffany Turner", \
 @"Jason Tyner", \
@@ -626,8 +628,6 @@
 @"Julia Ullman", \
 @"Cassie Ungaro", \
 @"Andy Uyeda", \
-@"Emily Vacek", \
-@"Jonathan Vacek", \
 @"Chanley Vaughan", \
 @"Luke Vaughan", \
 @"Andres Vera", \
@@ -635,6 +635,7 @@
 @"Crystal Vera", \
 @"Martin Vera", \
 @"Jeremy Viola", \
+@"Sarah Walje", \
 @"Bailey Walker", \
 @"Ellis Walker", \
 @"Brittany Walker", \
@@ -643,8 +644,9 @@
 @"Katie Walsh", \
 @"James Walters", \
 @"Natalie Walters", \
-@"Stephen Wellum", \
-@"Karen Wellum", \
+@"Grant Warkentin", \
+@"Joel Weiland", \
+@"Rebecca Weiland", \
 @"Aaron White", \
 @"Katie White", \
 @"Randy Whitener", \
@@ -655,9 +657,8 @@
 @"Andrew Wilkinson", \
 @"Stephanie Wilkinson", \
 @"Josh Wilson", \
-@"Chase Winchester", \
+@"Kati Wilson", \
 @"Bee Wing", \
-@"Stephanie Wininger", \
 @"Melissa Winters", \
 @"Tim Winters", \
 @"Mike Withers", \
@@ -667,7 +668,9 @@
 @"James Wright", \
 @"Maddie Wright", \
 @"Jin Yang", \
+@"Lynn Yang", \
 @"Carol Sun", \
+@"Paul Yoo", \
 @"Heather Young", \
 @"Ward Young", \
 @"Isaac Young", \
@@ -676,5 +679,18 @@
 @"Alyssa Yuen", \
 @"Josh Yuen", \
 @"Karen Zuleger"]
+
+#define ITUNES1 @[@"Sumatra", \
+@"Spain", \
+@"China", \
+@"Cameroon", \
+@"Turkey", \
+@"Mozambique", \
+@"Nepal", \
+@"Dubai", \
+@"Oaxaca"]
+
+#define ITUNES2 @[@"Matthias", \
+@"Justus"]
 
 #endif
