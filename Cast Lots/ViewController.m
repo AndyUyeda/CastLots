@@ -429,7 +429,7 @@ int buttonMode = 0;
 
 - (void)shake
 {
-    if ([pickerViewArray count] > 0 && UIEventSubtypeMotionShake && [pickerView isHidden]) {
+    if ([pickerViewArray count] > 0 && UIEventSubtypeMotionShake) {
         
         int randomNumber = arc4random()%1000 + ([pickerViewArray count] * 50);
         NSLog(@"%d", randomNumber);
@@ -494,18 +494,18 @@ int buttonMode = 0;
                                        [pickerView selectRow:SCROLL_SIZE / 2 inComponent:0 animated:NO];
                                        [self populateScrollView];
                                    }
-                                   else if([[[[alert textFields] objectAtIndex:0] text] isEqualToString:@"2YG4-G5"]){
+                                   
+                                   else if([[[[[alert textFields] objectAtIndex:0] text] lowercaseString] isEqualToString:@"gcg"]){
                                        [pickerViewArray removeAllObjects];
-                                       [pickerViewArray addObjectsFromArray:IK];
+                                       [pickerViewArray addObjectsFromArray:GCGLEADERS];
                                        
                                        [pickerView reloadAllComponents];
                                        [pickerView selectRow:SCROLL_SIZE / 2 inComponent:0 animated:NO];
                                        [self populateScrollView];
                                    }
-                                   
-                                   else if([[[[[alert textFields] objectAtIndex:0] text] lowercaseString] isEqualToString:@"gcg"]){
+                                   else if([[[[[alert textFields] objectAtIndex:0] text] lowercaseString] isEqualToString:@"elders"]){
                                        [pickerViewArray removeAllObjects];
-                                       [pickerViewArray addObjectsFromArray:GCGLEADERS];
+                                       [pickerViewArray addObjectsFromArray:ELDERS];
                                        
                                        [pickerView reloadAllComponents];
                                        [pickerView selectRow:SCROLL_SIZE / 2 inComponent:0 animated:NO];
